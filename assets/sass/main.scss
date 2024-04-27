@@ -1,0 +1,28 @@
+/* MODELO EJEMPLO DE MANIFIESTO */
+//abstracts
+@import "base/function";
+@import "base/mixins";
+@import "base/placeholders";
+@import "base/variables";
+//base
+@import "base/reset";
+@import "base/typography";
+@import "base/reset";
+//components
+@import "components/buttom";
+@import "components/card";
+@import "base/carousel";
+//layout
+@import "layaout/header";
+@import "layout/form-login";
+//page
+@import "base/home";
+@import "base/index";
+@import "base/login";
+@import "base/subcription";
+//themes
+@import "base/admin";
+@import "base/theme";
+//vendors
+@import "base/bootstrap";
+@import "base/jquery-ui";
